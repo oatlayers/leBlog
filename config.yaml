@@ -5,10 +5,6 @@ theme: PaperMod
 
 menu:
   main:
-    - identifier: home
-      name: Home
-      url: /
-      weight: 10
     - identifier: blog
       name: Blog
       url: /blog
@@ -49,6 +45,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   hideMeta: false
+  favicon: false
 
   # for enchanced SEO
   env: production
@@ -57,7 +54,7 @@ params:
   profileMode:
     enabled: true
     title: "Brilliant Keanu"
-    subtitle: "Hi 👋, I'm Liant. This is my blog where I post my poorly researched essays as well as my projects. For CS stuff I mostly dabble with Natural Language Processing and ethical hacking. I'm currently a manufacturing engineering student but my interest also include history, languages, macroeconomy and productivity."
+    subtitle: "Hi 👋, I'm Liant. This is my blog where I post my poorly researched ideas, projects, and other quirky things. I mostly dabble with Natural Language Processing and ethical hacking. I'm currently a manufacturing engineering student but my interest also include history, languages, macroeconomy and productivity."
     imageUrl: "home/me.jpg"
     imageWidth: 220
     imageHeight: 220
