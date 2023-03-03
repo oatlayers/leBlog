@@ -1,6 +1,6 @@
-baseURL: "https://arkalim.org"
+baseURL: "https://oatlayers.com"
 languageCode: en-us
-title: Abdur Rahman
+title: oatlayers
 theme: PaperMod
 
 menu:
@@ -17,14 +17,22 @@ menu:
       name: Projects
       url: /projects
       weight: 30
-    - identifier: experience
-      name: Experience
-      url: /experience
+#    - identifier: experience
+#      name: Experience
+#      url: /experience
+#      weight: 40
+    - identifier: book notes
+      name: Book Notes
+      url: /booknotes
       weight: 40
+    - identifier: about
+      name: About
+      url: /about
+      weight: 50
     - identifier: search
       name: Search
       url: /search
-      weight: 50
+      weight: 60
     # - identifier: tags
     #   name: Tags
     #   url: /tags
@@ -48,8 +56,8 @@ params:
   # Home Page
   profileMode:
     enabled: true
-    title: "Abdur Rahman"
-    subtitle: "Hi 👋, I'm Abdur, an [**MSc in Applied Computing**](https://mscac.utoronto.ca/) student at the **University of Toronto**. I'm passionate about **Backend**, **Cloud** and **DevOps**, and I'm also an AWS Certified Solutions Architect. Along with my grad studies, I've been working as a **DevOps Intern** at [**16Bit.ai**](https://www.16bit.ai), a MedTech startup based in Toronto 🇨🇦. Before joining the MScAC program, I worked as a **Backend Engineer** at [**BuyerAssist.io**](https://buyerassist.io/), a B2B SaaS startup based in India 🇮🇳. When I'm free, I make YouTube 🎬 videos on career, higher education & productivity"
+    title: "Brilliant Keanu"
+    subtitle: "Hi 👋, I'm Liant. This is my blog where I post my poorly researched essays as well as my projects. For CS stuff I mostly dabble with Natural Language Processing and ethical hacking. I'm currently a manufacturing engineering student but my interest also include history, languages, macroeconomy and productivity."
     imageUrl: "home/me.jpg"
     imageWidth: 220
     imageHeight: 220
@@ -67,15 +75,19 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mailto:abdur.rahman.kalim@gmail.com"
-    - name: "linkedin"
-      url: "https://www.linkedin.com/in/abdurrahmankalim"
+      url: "mailto:pullherehfree@gmail.com"
+ #   - name: "linkedin"
+ #     url: "https://www.linkedin.com/in/"
     - name: "github"
-      url: "https://github.com/arkalim"
+      url: "https://github.com/oatlayers"
     - name: "youtube"
-      url: "https://www.youtube.com/c/AbdurRahmanKalim"
-    - name: "cv"
-      url: "https://drive.google.com/file/d/1U6Gg2RnHSCthtWLbZJBlAEI3V1WGjZty/view"
+      url: "https://www.youtube.com/@oatlayers"
+#    - name: "cv"
+#      url: "https://drive.google.com/file/d/1U6Gg2RnHSCthtWLbZJBlAEI3V1WGjZty/view"
+    - name: "instagram"
+      url: "https://instagram.com/oatlayers"
+    - name: "twitter"
+      url: "https://twitter.com/oatlayers"
 
   # text search
   fuseOpts:
@@ -99,3 +111,5 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+pluralizelisttitles: false
