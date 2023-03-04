@@ -5,6 +5,10 @@ theme: PaperMod
 
 menu:
   main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
     - identifier: blog
       name: Blog
       url: /blog
@@ -25,10 +29,10 @@ menu:
       name: About
       url: /about
       weight: 50
-    - identifier: search
-      name: Search
-      url: /search
-      weight: 60
+#    - identifier: search
+#      name: Search
+#     url: /search
+#     weight: 60
     # - identifier: tags
     #   name: Tags
     #   url: /tags
@@ -45,8 +49,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   hideMeta: false
-  favicon: false
-
+  
   # for enchanced SEO
   env: production
 
@@ -110,3 +113,4 @@ markup:
       unsafe: true
 
 pluralizelisttitles: false
+favicon: "/assets/favicon.ico"
