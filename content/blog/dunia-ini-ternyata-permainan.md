@@ -40,7 +40,7 @@ What was holiest and mightiest of all that the world has yet owned has bled to d
 **Yang paling suci dan maha agung telah mati di tangan kita: siapa yang akan membersihkan darah ini? Air apa yang dapat membersihkan kita?**
 
 What festivals of atonement, what sacred games shall we have to invent? Is not the greatness of this deed too great for us? Must we ourselves not become gods simply to appear worthy of it?
-**Ritual pentobatan dan permainan macam apa yang harus kita ciptakan? Bukankah perbuatan ini seharusnya diluar kemampuan kita? Haruskah kita menjadi Tuhan demi menebus perbuatan ini?**
+**Ritual pertobatan dan permainan macam apa yang harus kita ciptakan? Bukankah perbuatan ini seharusnya diluar kemampuan kita? Haruskah kita menjadi Tuhan demi menebus perbuatan ini?**
 
 There has never been a greater deed; and whoever is born after us---for the sake of this deed he will belong to a higher history than all history hitherto."
 **Belum pernah ada perbuatan yang lebih besar sebelumnya; dan akibat perbuatan ini, siapapun yang lahir setelah kita niscaya ia akan hidup di era yang berbeda dibandingkan seluruh sejarah umat manusia**
