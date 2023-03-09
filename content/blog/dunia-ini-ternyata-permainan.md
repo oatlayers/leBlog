@@ -33,16 +33,16 @@ Dalam bukunya Sains Yang Menyenangkan, filsuf Jerman Friedrich Nietzsche menulis
 Konsekuensinya sangat besar. Nietzsche secara teori memprediksi pengadopsian ideologi komunisme dan fasisme puluhan tahun sebelum revolusi tahun 1917 di kekaisaran Rusia yang menciptakan negara komunis pertama, Uni Soviet serta sebelum naiknya partai fasis di Jerman. Ia juga mengibaratkan bahwa seolah-olah umat manusia berdiri di atas karpet lalu karpet itu ditarik dari belakang, sehingga manusia bingung, dan terjatuh. Apa yang akan kita anggap sebagai perbuatan tercela dan perbuatan baik jika tidak dikaitkan dengan konsep dosa?
 
 ---
-"How shall we comfort ourselves, the murderers of all murderers?
+"How shall we comfort ourselves, the murderers of all murderers?<br>
 **Apa yang akan kita lakukan sekarang, pembunuh dari semua pembunuh?**
 
-What was holiest and mightiest of all that the world has yet owned has bled to death under our knives: who will wipe this blood off us? What water is there for us to clean ourselves?
+What was holiest and mightiest of all that the world has yet owned has bled to death under our knives: who will wipe this blood off us? What water is there for us to clean ourselves?<br>
 **Yang paling suci dan maha agung telah mati di tangan kita: siapa yang akan membersihkan darah ini? Air apa yang dapat membersihkan kita?**
 
-What festivals of atonement, what sacred games shall we have to invent? Is not the greatness of this deed too great for us? Must we ourselves not become gods simply to appear worthy of it?
+What festivals of atonement, what sacred games shall we have to invent? Is not the greatness of this deed too great for us? Must we ourselves not become gods simply to appear worthy of it?<br>
 **Ritual pertobatan dan permainan macam apa yang harus kita ciptakan? Bukankah perbuatan ini seharusnya diluar kemampuan kita? Haruskah kita menjadi Tuhan demi menebus perbuatan ini?**
 
-There has never been a greater deed; and whoever is born after us---for the sake of this deed he will belong to a higher history than all history hitherto."
+There has never been a greater deed; and whoever is born after us---for the sake of this deed he will belong to a higher history than all history hitherto."<br>
 **Belum pernah ada perbuatan yang lebih besar sebelumnya; dan akibat perbuatan ini, siapapun yang lahir setelah kita niscaya ia akan hidup di era yang berbeda dibandingkan seluruh sejarah umat manusia**
 
 ---
